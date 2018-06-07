@@ -1,9 +1,9 @@
 public class MyMessage {
 	String message;
 
-	public MyMessage(String message)
+	public MyMessage(String messages)
 	{
-		this.message = message;
+		this.message = messages;
 	}
 
 	public void print()
