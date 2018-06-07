@@ -6,7 +6,7 @@ public class MyMessage {
 		this.message = message;
 	}
 
-	public void print()
+	public void printMessage()
 	{
 		System.out.println(message);
 	}
